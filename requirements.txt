@@ -1,0 +1,11 @@
+SpeechRecognition
+ollama
+gTTS
+numpy
+pydub
+librosa
+transformers
+onnxruntime
+torch
+huggingface_hub
+accelerate>=0.26.1
